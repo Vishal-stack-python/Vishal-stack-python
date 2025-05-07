@@ -11,8 +11,8 @@
 - **Languages:** Python, C++, JavaScript, HTML, CSS  
 - **Frameworks:** React.js, Node.js, Flask, Express.js  
 - **Databases:** MySQL, MongoDB, SQLite  
-- **Tools:** Git, GitHub, Google Colab, VS Code, Docker  
-- **ML Techniques:** K-Means, Linear Regression, Decision Trees  
+- **Tools:** Git, GitHub, Google Colab, VS Code
+- **ML Techniques:** K-Means, Linear Regression, Decision Trees ,Random forest regression  
 
 ---
 
