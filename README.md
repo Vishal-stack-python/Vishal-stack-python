@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-I'm a **pre-final year Information Technology student at SRM University, Ramapuram** passionate about **Data Science**, **AI/ML**, and **Software Engineering**. I love building impactful, real-world applications that combine data, logic, and innovation.
+I'm a **final year Information Technology student at SRM University, Ramapuram** passionate about **Data Science**, **AI/ML**, and **Software Engineering**. I love building impactful, real-world applications that combine data, logic, and innovation.
 
 With a strong foundation in **Python, C++, and JavaScript**, and hands-on experience in **React, Node.js, Flask, MongoDB**, and **Machine Learning**, I aim to create solutions that are both technically robust and user-focused.
 
