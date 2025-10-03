@@ -33,7 +33,7 @@ Web app to manage expenses with real-time ML insights:
 - **Web**: React.js, Node.js, Express.js, Flask  
 - **Databases**: MySQL, MongoDB, SQLite  
 - **ML/AI**: scikit-learn, Pandas, NumPy, Matplotlib  
-- **Tools**: Git, GitHub, Google Colab, VS Code
+- **Tools**: Photoshop, MS Excel, MS PowerBI, Google Colab, VS Code
 
 ---
 
